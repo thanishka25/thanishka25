@@ -21,14 +21,14 @@ I also have hands-on experience building Generative AI and RAG applications usin
 
 ## Tech Stack
 
-Programming & Data: Python, SQL, PySpark, R
-Data Analytics: Data Cleaning, EDA, Trend Analysis, KPI Development, Data Validation, Data Transformation
-Databricks & Big Data: Databricks, Delta Lake, Lakeflow Jobs, Apache Spark
-Visualization: Databricks AI/BI Dashboards, Excel, Interactive Dashboards, Geospatial Visualization
-Forecasting: Time-Series Forecasting, AI_FORECAST(), Holdout Validation, MAE, RMSE
-Generative AI: LangChain, OpenAI, Hugging Face, Ollama, ChromaDB, RAG, Prompt Orchestration
-Data Engineering: CSV/API Ingestion, Schema Validation, ETL Pipelines, Automated Data Refresh
-Tools: GitHub, Jupyter Notebook, Streamlit, Chainlit
+**Programming & Data**: Python, SQL, PySpark, R
+**Data Analytics**: Data Cleaning, EDA, Trend Analysis, KPI Development, Data Validation, Data Transformation
+**Databricks & Big Data**: Databricks, Delta Lake, Lakeflow Jobs, Apache Spark
+**Visualization**: Databricks AI/BI Dashboards, Excel, Interactive Dashboards, Geospatial Visualization
+**Forecasting**: Time-Series Forecasting, AI_FORECAST(), Holdout Validation, MAE, RMSE
+**Generative AI**: LangChain, OpenAI, Hugging Face, Ollama, ChromaDB, RAG, Prompt Orchestration
+**Data Engineering**: CSV/API Ingestion, Schema Validation, ETL Pipelines, Automated Data Refresh
+**Tools**: GitHub, Jupyter Notebook, Streamlit, Chainlit
 
 ---
 
