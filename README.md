@@ -1,6 +1,6 @@
 # Hi, I'm Thanishka Avula 👋
 
-AI/ML Engineer Intern focused on Machine Learning, Generative AI, Databricks, RAG applications, and real-time analytics.
+AI/ML Engineer  focused on Machine Learning, Generative AI, Databricks, RAG applications, and real-time analytics.
 
 🌐 Portfolio: https://thanishka-portfolio.vercel.app  
 📧 Email: Thanishkaai25@gmail.com  
@@ -11,7 +11,11 @@ AI/ML Engineer Intern focused on Machine Learning, Generative AI, Databricks, RA
 
 ## About Me
 
-I am a Computer Science student and AI/ML Engineer Intern with hands-on experience building machine learning and Generative AI solutions on Databricks. My work includes real-time fraud detection, predictive analytics, LLM-powered applications, RAG assistants, MLflow experiment tracking, and large-scale data processing using PySpark, SQL, Delta Lake, and Spark Structured Streaming.  
+I am a Computer Science student and  Data Analyst Intern with hands-on experience analyzing 25,000+ records using SQL, Python, PySpark, and Databricks. I work on data cleaning, exploratory analysis, KPI development, dashboard creation, forecasting, geospatial analysis, and automated reporting workflows.
+
+My experience includes building Databricks AI/BI dashboards, developing ETL pipelines using CSV and REST API data, working with Delta Lake and Lakeflow Jobs, and applying advanced SQL techniques such as joins, CTEs, window functions, LAG(), RANK(), and COUNT(DISTINCT).
+
+I also have hands-on experience building Generative AI and RAG applications using LangChain, OpenAI, Hugging Face, Ollama, ChromaDB, and Streamlit. My projects include an AI chatbot, a privacy-focused RAG assistant, a fake news detection system, and a movie recommendation system.  
 
 ---
 
