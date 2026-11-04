@@ -1,34 +1,33 @@
 # Hi, I'm Thanishka Avula 👋
 
-AI/ML Engineer  focused on Machine Learning, Generative AI, Databricks, RAG applications, and real-time analytics.
+Software Engineer focused on Machine Learning, Generative AI, Databricks, RAG applications, and real-time analytics.
 
 🌐 Portfolio: https://thanishka-portfolio.vercel.app  
 📧 Email: Thanishkaai25@gmail.com  
 📍 Hyderabad, India  
-💼 Open to AI/ML Internships, Generative AI roles, and Machine Learning opportunities
+💼 Open to AI/ML Internships, Web Development, and Machine Learning opportunities
 
 ---
 
 ## About Me
 
-I am a Computer Science student and  Data Analyst Intern with hands-on experience analyzing 25,000+ records using SQL, Python, PySpark, and Databricks. I work on data cleaning, exploratory analysis, KPI development, dashboard creation, forecasting, geospatial analysis, and automated reporting workflows.
+I am a Computer Science graduate and Software Engineer – AI with hands-on experience developing AI-powered applications and backend systems using Python, FastAPI, LangChain, PostgreSQL, Redis, Weaviate, Docker, and AWS. My experience includes building REST APIs, developing RAG pipelines, integrating APIs, implementing semantic search, optimizing backend performance, and automating support workflows across 10,000+ documents. I have worked on application deployment, performance optimization, and evaluation workflows, achieving a 30% reduction in response latency and supporting applications handling 500+ concurrent requests.
 
-My experience includes building Databricks AI/BI dashboards, developing ETL pipelines using CSV and REST API data, working with Delta Lake and Lakeflow Jobs, and applying advanced SQL techniques such as joins, CTEs, window functions, LAG(), RANK(), and COUNT(DISTINCT).
-
-I also have hands-on experience building Generative AI and RAG applications using LangChain, OpenAI, Hugging Face, Ollama, ChromaDB, and Streamlit. My projects include an AI chatbot, a privacy-focused RAG assistant, a fake news detection system, and a movie recommendation system.  
+I also have hands-on experience building Generative AI and machine learning applications using LangChain, OpenAI, Hugging Face, Ollama, ChromaDB, Streamlit, and Chainlit. My projects include an AI chatbot, a privacy-focused RAG assistant, a fake news detection system, and a movie recommendation system.
 
 ---
 
 ## Tech Stack
 
-**Programming & Data**: Python, SQL, PySpark, R
-**Data Analytics**: Data Cleaning, EDA, Trend Analysis, KPI Development, Data Validation, Data Transformation
-**Databricks & Big Data**: Databricks, Delta Lake, Lakeflow Jobs, Apache Spark
-**Visualization**: Databricks AI/BI Dashboards, Excel, Interactive Dashboards, Geospatial Visualization
-**Forecasting**: Time-Series Forecasting, AI_FORECAST(), Holdout Validation, MAE, RMSE
-**Generative AI**: LangChain, OpenAI, Hugging Face, Ollama, ChromaDB, RAG, Prompt Orchestration
-**Data Engineering**: CSV/API Ingestion, Schema Validation, ETL Pipelines, Automated Data Refresh
-**Tools**: GitHub, Jupyter Notebook, Streamlit, Chainlit
+**Programming Languages**: Python, R, SQL
+**AI/Generative AI**: Retrieval-Augmented Generation, LLM Tool Calling, Prompt Engineering, Embeddings, Semantic Search, Vector Search, Document Question Answering
+**Frameworks and Libraries**: FastAPI, LangChain, Streamlit, Chainlit, scikit-learn, Hugging Face
+**Databases and Vector Databases**: PostgreSQL, Redis, Weaviate, ChromaDB
+**Machine Learning and NLP**: Classification Models, NLP Preprocessing, Tokenization, Stop-Word Removal, CountVectorizer, Collaborative Filtering, Cosine Similarity
+**Cloud and DevOps**: AWS, Docker, Logging, Monitoring, Fault Handling
+**APIs and Backend Development**: REST APIs, Authentication, API Integration, Caching, Query Processing
+**Tools and Platforms**: Git, GitHub, OpenAI API, Ollama, MovieLens Dataset
+
 
 ---
 
